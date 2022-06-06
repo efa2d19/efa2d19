@@ -11,7 +11,8 @@
 * 🟣 Appium 
 * ✅ Selenium
 * 〉 Bash
-* ❄️ React and 📱 React Native (a little🐸)
+* ❄️ React
+* 📱 React Native
 
 <img align=left width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
 
