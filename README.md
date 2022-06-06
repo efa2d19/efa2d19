@@ -14,10 +14,10 @@
 * ❄️ React
 * 📱 React Native
 
-<img align=left width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
-
-<img align=left width=47% src="https://github-readme-stats.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
 
 ## Contacts
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png' alt='telegram' height='40'>](https://t.me/Alex0sipov)  
+[<img align="left" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png' alt='telegram' height='40'>](https://t.me/Alex0sipov)
+[<img align="left" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18619132)  
