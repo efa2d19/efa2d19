@@ -14,8 +14,8 @@
 * ❄️ React
 * 📱 React Native
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
+[<img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/Drugsosos)
+[<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/Drugsosos)
 
 ## Contacts
 
