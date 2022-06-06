@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on LIIS
 - 🌱 I’m currently learning how to use async code in pytest
-- 👯 I’m looking to collaborate on any opensource 🐍Python🐍 project
+- 👯 I’m looking to collaborate on any opensource 🐍Python project
 
 ## Skills & Experience
 * 🐍 Python 
