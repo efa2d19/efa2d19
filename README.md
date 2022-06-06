@@ -1,18 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Alex
+#### Automation and manual QA
 
-<!--
-**Drugsosos/drugsosos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on LIIS
+- 🌱 I’m currently learning how to use async code in pytest
+- 👯 I’m looking to collaborate on any opensource 🐍Python🐍 project
 
-Here are some ideas to get you started:
+## Skills & Experience
+* 🐍 Python 
+* 📊 Pytest 
+* 🟣 Appium 
+* ✅ Selenium
+* 〉 Bash
+* ❄️ React and 📱 React Native (a little🐸)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align=left width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align=left width=47% src="https://github-readme-stats.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
+
+## Contacts
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png' alt='telegram' height='40'>](https://t.me/Alex0sipov)  
