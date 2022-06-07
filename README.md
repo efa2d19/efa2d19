@@ -8,28 +8,31 @@
 
 ### Connect with me:
 
-[![website](./img/telegram-light.svg)](https://t.me/Alex0sipov#gh-light-mode-only)
-[![website](./img/telegram.svg)](https://t.me/Alex0sipov#gh-dark-mode-only)
+[<img align="left" alt="Telegram" width="26px" src="./img/telegram.svg" style="padding-right:10px;" />](https://t.me/Alex0sipov#gh-light-mode-only)
+[<img align="left" alt="Telegram" width="26px" src="./img/telegram-light.svg" style="padding-right:10px;" />](https://t.me/Alex0sipov#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/stackoverflow-light.svg)](https://stackoverflow.com/users/18619132#gh-light-mode-only)
-[![website](./img/stackoverflow.svg)](https://stackoverflow.com/users/18619132#gh-dark-mode-only)
+[<img align="left" alt="Telegram" width="26px" src="./img/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18619132#gh-light-mode-only)
+[<img align="left" alt="Telegram" width="26px" src="./img/stackoverflow-light.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18619132#gh-dark-mode-only)
+
+<br />
+<br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="./img/python-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
+[<img align="left" alt="Python" width="26px" src="./img/python-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Pytest" width="26px" src="./img/pytest-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Pytest" width="26px" src="./img/pytest.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Pytest" width="26px" src="./img/pytest.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
+[<img align="left" alt="Pytest" width="26px" src="./img/pytest-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Selenium" width="26px" src="./img/selenium-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Selenium" width="26px" src="./img/selenium.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Selenium" width="26px" src="./img/selenium.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
+[<img align="left" alt="Selenium" width="26px" src="./img/selenium-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Bash" width="26px" src="./img/gnubash-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Bash" width="26px" src="./img/gnubash.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Bash" width="26px" src="./img/gnubash.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
+[<img align="left" alt="Bash" width="26px" src="./img/gnubash-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="React" width="26px" src="./img/react-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="React" width="26px" src="./img/react.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="React" width="26px" src="./img/react.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
+[<img align="left" alt="React" width="26px" src="./img/react-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 
 <br />
 <br />
