@@ -18,26 +18,26 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Python" width="26px" src="./img/python-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />](https://www.python.org#gh-light-mode-only)
+[<img align="left" alt="Python" width="26px" src="./img/python-light.svg" style="padding-right:10px;" />](https://www.python.org#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Pytest" width="26px" src="./img/pytest.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Pytest" width="26px" src="./img/pytest-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Pytest" width="26px" src="./img/pytest.svg" style="padding-right:10px;" />](https://docs.pytest.org/#gh-light-mode-only)
+[<img align="left" alt="Pytest" width="26px" src="./img/pytest-light.svg" style="padding-right:10px;" />](https://docs.pytest.org/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Appium" width="26px" src="./img/appium.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Appium" width="26px" src="./img/appium-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Appium" width="26px" src="./img/appium.svg" style="padding-right:10px;" />](https://appium.io#gh-light-mode-only)
+[<img align="left" alt="Appium" width="26px" src="./img/appium-light.svg" style="padding-right:10px;" />](https://appium.io#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Selenium" width="26px" src="./img/selenium.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Selenium" width="26px" src="./img/selenium-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Selenium" width="26px" src="./img/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-light-mode-only)
+[<img align="left" alt="Selenium" width="26px" src="./img/selenium-light.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Bash" width="26px" src="./img/gnubash.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="Bash" width="26px" src="./img/gnubash-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="Bash" width="26px" src="./img/gnubash.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/#gh-light-mode-only)
+[<img align="left" alt="Bash" width="26px" src="./img/gnubash-light.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="React Native" width="26px" src="./img/react-native.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="React Native" width="26px" src="./img/react-native-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="React Native" width="26px" src="./img/react-native.svg" style="padding-right:10px;" />](https://reactjs.org#gh-light-mode-only)
+[<img align="left" alt="React Native" width="26px" src="./img/react-native-light.svg" style="padding-right:10px;" />](https://reactjs.org#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="React" width="26px" src="./img/react.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
-[<img align="left" alt="React" width="26px" src="./img/react-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+[<img align="left" alt="React" width="26px" src="./img/react.svg" style="padding-right:10px;" />](https://reactnative.dev#gh-light-mode-only)
+[<img align="left" alt="React" width="26px" src="./img/react-light.svg" style="padding-right:10px;" />](https://reactnative.dev#gh-dark-mode-only)
 
 ---
 
