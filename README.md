@@ -56,8 +56,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   [<img align="left" alt="Top Languages" src="https://github-readme-stats-drugsosos.vercel.app/api/top-langs/?username=drugsosos&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact" />](https://github.com/Drugsosos#gh-light-mode-only)
-  [<img align="left" alt="Top Languages" src="https://github-readme-stats-drugsosos.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/Drugsosos#gh-dark-mode-only)
   [<img align="left" alt="Github Stats" src="https://github-readme-stats-drugsosos.vercel.app/api?username=drugsosos&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/Drugsosos#gh-light-mode-only)
+  [<img align="left" alt="Top Languages" src="https://github-readme-stats-drugsosos.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/Drugsosos#gh-dark-mode-only)
   [<img align="left" alt="Github Stats" src="https://github-readme-stats-drugsosos.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/Drugsosos#gh-dark-mode-only)
 
 </details>
