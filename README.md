@@ -14,8 +14,6 @@
 [<img align="left" alt="Telegram" width="26px" src="./img/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18619132#gh-light-mode-only)
 [<img align="left" alt="Telegram" width="26px" src="./img/stackoverflow-light.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18619132#gh-dark-mode-only)
 
-<br />
-<br />
 
 ### Languages and Tools:
 
@@ -34,9 +32,6 @@
 [<img align="left" alt="React" width="26px" src="./img/react.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
 [<img align="left" alt="React" width="26px" src="./img/react-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 
-<br />
-<br />
-
 ---
 
 
@@ -53,11 +48,7 @@
 
   [<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drugsosos&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/Drugsosos#gh-light-mode-only)
   [<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/Drugsosos#gh-dark-mode-only)
-  &nbsp;&nbsp;
   [<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=drugsosos&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/Drugsosos#gh-light-mode-only)
   [<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/Drugsosos#gh-dark-mode-only)
-  
-  <br />
-  <br />
 
 </details>
