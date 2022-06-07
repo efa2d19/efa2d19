@@ -23,11 +23,17 @@
 [<img align="left" alt="Pytest" width="26px" src="./img/pytest.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
 [<img align="left" alt="Pytest" width="26px" src="./img/pytest-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 &nbsp;&nbsp;
+[<img align="left" alt="Appium" width="26px" src="./img/appium.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
+[<img align="left" alt="Appium" width="26px" src="./img/appium-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+&nbsp;&nbsp;
 [<img align="left" alt="Selenium" width="26px" src="./img/selenium.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
 [<img align="left" alt="Selenium" width="26px" src="./img/selenium-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="Bash" width="26px" src="./img/gnubash.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
 [<img align="left" alt="Bash" width="26px" src="./img/gnubash-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img align="left" alt="React Native" width="26px" src="./img/react-native.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
+[<img align="left" alt="React Native" width="26px" src="./img/react-native-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="React" width="26px" src="./img/react.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-light-mode-only)
 [<img align="left" alt="React" width="26px" src="./img/react-light.svg" style="padding-right:10px;" />](https://github.com/Drugsosos#gh-dark-mode-only)
