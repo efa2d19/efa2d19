@@ -45,6 +45,9 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Drugsosos/tor-proxy-SwiftBar/pull/1) in [Drugsosos/tor-proxy-SwiftBar](https://github.com/Drugsosos/tor-proxy-SwiftBar)
+2. 💪 Opened PR [#1](https://github.com/Drugsosos/tor-proxy-SwiftBar/pull/1) in [Drugsosos/tor-proxy-SwiftBar](https://github.com/Drugsosos/tor-proxy-SwiftBar)
+<!--END_SECTION:activity-->
 
 </details>
 
