@@ -46,8 +46,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#403](https://github.com/elebumm/RedditVideoMakerBot/pull/403) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. 🗣 Commented on [#379](https://github.com/elebumm/RedditVideoMakerBot/issues/379) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+1. 🗣 Commented on [#403](https://github.com/elebumm/RedditVideoMakerBot/issues/403) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+2. 💪 Opened PR [#403](https://github.com/elebumm/RedditVideoMakerBot/pull/403) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 <!--END_SECTION:activity-->
 
 </details>
