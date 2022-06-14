@@ -44,7 +44,8 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-
+  &nbsp;
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#461](https://github.com/elebumm/RedditVideoMakerBot/issues/461) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 2. 🗣 Commented on [#419](https://github.com/elebumm/RedditVideoMakerBot/issues/419) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
@@ -54,7 +55,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  &nbsp;
+  
   [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats-drugsosos.vercel.app/api/top-langs/?username=drugsosos&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact" />](https://github.com/Drugsosos#gh-light-mode-only)
   [<img align="left" width="47%" alt="Github Stats" src="https://github-readme-stats-drugsosos.vercel.app/api?username=drugsosos&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/Drugsosos#gh-light-mode-only)
   [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats-drugsosos.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/Drugsosos#gh-dark-mode-only)
