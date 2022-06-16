@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 10,13,16,19 * * *'
+    - cron: '0 8-18/2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,3 +15,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '🤖 Updated README.md with new recent activities'
+          MAX_LINES: 5
