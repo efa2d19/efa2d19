@@ -47,8 +47,8 @@
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#461](https://github.com/elebumm/RedditVideoMakerBot/issues/461) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. 🗣 Commented on [#419](https://github.com/elebumm/RedditVideoMakerBot/issues/419) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+1. 🎉 Merged PR [#1](https://github.com/Drugsosos/VideoBot/pull/1) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
+2. 💪 Opened PR [#1](https://github.com/Drugsosos/VideoBot/pull/1) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
 <!--END_SECTION:activity-->
 
 </details>
