@@ -47,8 +47,8 @@
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Drugsosos/VideoBot/pull/1) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
-2. 💪 Opened PR [#1](https://github.com/Drugsosos/VideoBot/pull/1) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
+1. 🎉 Merged PR [#2](https://github.com/Drugsosos/VideoBot/pull/2) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
+2. 💪 Opened PR [#2](https://github.com/Drugsosos/VideoBot/pull/2) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
 <!--END_SECTION:activity-->
 
 </details>
