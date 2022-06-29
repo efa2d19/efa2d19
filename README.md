@@ -48,7 +48,7 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#109](https://github.com/mac-cleanup/mac-cleanup-sh/issues/109) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
-2. 💪 Opened PR [#110](https://github.com/mac-cleanup/mac-cleanup-sh/pull/110) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
+2. 🗣 Commented on [#109](https://github.com/mac-cleanup/mac-cleanup-sh/issues/109) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
 <!--END_SECTION:activity-->
 
 </details>
