@@ -47,8 +47,8 @@
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Drugsosos/VideoBot/pull/6) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
-2. 💪 Opened PR [#6](https://github.com/Drugsosos/VideoBot/pull/6) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
+1. 🗣 Commented on [#109](https://github.com/mac-cleanup/mac-cleanup-sh/issues/109) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
+2. 💪 Opened PR [#110](https://github.com/mac-cleanup/mac-cleanup-sh/pull/110) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
 <!--END_SECTION:activity-->
 
 </details>
