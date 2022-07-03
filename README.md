@@ -47,8 +47,8 @@
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#111](https://github.com/mac-cleanup/mac-cleanup-sh/issues/111) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
-2. 🎉 Merged PR [#2](https://github.com/Drugsosos/mac-cleanup-py/pull/2) in [Drugsosos/mac-cleanup-py](https://github.com/Drugsosos/mac-cleanup-py)
+1. 🗣 Commented on [#111](https://github.com/mac-cleanup/mac-cleanup-sh/issues/111) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
+2. ❗️ Opened issue [#111](https://github.com/mac-cleanup/mac-cleanup-sh/issues/111) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
 <!--END_SECTION:activity-->
 
 </details>
