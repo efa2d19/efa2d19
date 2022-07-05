@@ -47,8 +47,8 @@
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/mac-cleanup/mac-cleanup-sh/issues/111) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
-2. ❗️ Opened issue [#111](https://github.com/mac-cleanup/mac-cleanup-sh/issues/111) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
+1. 🗣 Commented on [#732](https://github.com/elebumm/RedditVideoMakerBot/issues/732) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+2. 🗣 Commented on [#111](https://github.com/mac-cleanup/mac-cleanup-sh/issues/111) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
 <!--END_SECTION:activity-->
 
 </details>
