@@ -47,8 +47,8 @@
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/mac-cleanup/mac-cleanup-sh/issues/111) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
-2. 💪 Opened PR [#13](https://github.com/Drugsosos/VideoBot/pull/13) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
+1. ❗️ Opened issue [#3](https://github.com/mac-cleanup/mac-cleanup-py/issues/3) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#111](https://github.com/mac-cleanup/mac-cleanup-sh/issues/111) in [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
 <!--END_SECTION:activity-->
 
 </details>
