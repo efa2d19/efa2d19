@@ -47,8 +47,8 @@
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1010](https://github.com/elebumm/RedditVideoMakerBot/issues/1010) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. 🗣 Commented on [#1048](https://github.com/elebumm/RedditVideoMakerBot/issues/1048) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+1. 🗣 Commented on [#958](https://github.com/elebumm/RedditVideoMakerBot/issues/958) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+2. 🗣 Commented on [#1010](https://github.com/elebumm/RedditVideoMakerBot/issues/1010) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 <!--END_SECTION:activity-->
 
 </details>
