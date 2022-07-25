@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1070](https://github.com/elebumm/RedditVideoMakerBot/issues/1070) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. 🗣 Commented on [#1070](https://github.com/elebumm/RedditVideoMakerBot/issues/1070) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+1. 🗣 Commented on [#1069](https://github.com/elebumm/RedditVideoMakerBot/issues/1069) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+2. 🗣 Commented on [#1073](https://github.com/elebumm/RedditVideoMakerBot/issues/1073) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 <!--END_SECTION:activity-->
 
 </details>
