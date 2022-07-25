@@ -30,8 +30,8 @@ Languages and Tools:
 [<img align="left" alt="Selenium" width="26px" src="./img/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-light-mode-only)
 [<img align="left" alt="Selenium" width="26px" src="./img/selenium-light.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Playwright" width="26px" src="./img/playwright.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-light-mode-only)
-[<img align="left" alt="Playwright" width="26px" src="./img/playwright-light.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-dark-mode-only)
+[<img align="left" alt="Playwright" width="26px" src="./img/playwright.svg" style="padding-right:10px;" />](https://playwright.dev#gh-light-mode-only)
+[<img align="left" alt="Playwright" width="26px" src="./img/playwright-light.svg" style="padding-right:10px;" />](https://playwright.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="Bash" width="26px" src="./img/gnubash.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/#gh-light-mode-only)
 [<img align="left" alt="Bash" width="26px" src="./img/gnubash-light.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/#gh-dark-mode-only)
