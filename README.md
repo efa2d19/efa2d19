@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1086](https://github.com/elebumm/RedditVideoMakerBot/issues/1086) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. 🗣 Commented on [#1075](https://github.com/elebumm/RedditVideoMakerBot/issues/1075) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+1. 🎉 Merged PR [#2](https://github.com/mac-cleanup/homebrew-mac-cleanup-py/pull/2) in [mac-cleanup/homebrew-mac-cleanup-py](https://github.com/mac-cleanup/homebrew-mac-cleanup-py)
+2. 💪 Opened PR [#2](https://github.com/mac-cleanup/homebrew-mac-cleanup-py/pull/2) in [mac-cleanup/homebrew-mac-cleanup-py](https://github.com/mac-cleanup/homebrew-mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
