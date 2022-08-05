@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mac-cleanup/homebrew-mac-cleanup-py/pull/3) in [mac-cleanup/homebrew-mac-cleanup-py](https://github.com/mac-cleanup/homebrew-mac-cleanup-py)
-2. 💪 Opened PR [#3](https://github.com/mac-cleanup/homebrew-mac-cleanup-py/pull/3) in [mac-cleanup/homebrew-mac-cleanup-py](https://github.com/mac-cleanup/homebrew-mac-cleanup-py)
+1. 🎉 Merged PR [#4](https://github.com/mac-cleanup/homebrew-mac-cleanup-py/pull/4) in [mac-cleanup/homebrew-mac-cleanup-py](https://github.com/mac-cleanup/homebrew-mac-cleanup-py)
+2. 💪 Opened PR [#4](https://github.com/mac-cleanup/homebrew-mac-cleanup-py/pull/4) in [mac-cleanup/homebrew-mac-cleanup-py](https://github.com/mac-cleanup/homebrew-mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
