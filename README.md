@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Drugsosos/VideoBot/issues/14) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
-2. 🎉 Merged PR [#12](https://github.com/mac-cleanup/mac-cleanup-py/pull/12) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🗣 Commented on [#13](https://github.com/mac-cleanup/mac-cleanup-py/issues/13) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#14](https://github.com/Drugsosos/VideoBot/issues/14) in [Drugsosos/VideoBot](https://github.com/Drugsosos/VideoBot)
 <!--END_SECTION:activity-->
 
 </details>
