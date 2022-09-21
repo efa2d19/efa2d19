@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/mac-cleanup/mac-cleanup-py/issues/17) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. ❗️ Opened issue [#461](https://github.com/p0deje/Maccy/issues/461) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+1. 🎉 Merged PR [#1](https://github.com/liis-dev-team/rn-dependency-installer/pull/1) in [liis-dev-team/rn-dependency-installer](https://github.com/liis-dev-team/rn-dependency-installer)
+2. 💪 Opened PR [#1](https://github.com/liis-dev-team/rn-dependency-installer/pull/1) in [liis-dev-team/rn-dependency-installer](https://github.com/liis-dev-team/rn-dependency-installer)
 <!--END_SECTION:activity-->
 
 </details>
