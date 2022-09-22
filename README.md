@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/liis-dev-team/rn-dependency-installer/pull/1) in [liis-dev-team/rn-dependency-installer](https://github.com/liis-dev-team/rn-dependency-installer)
-2. 💪 Opened PR [#1](https://github.com/liis-dev-team/rn-dependency-installer/pull/1) in [liis-dev-team/rn-dependency-installer](https://github.com/liis-dev-team/rn-dependency-installer)
+1. 🎉 Merged PR [#2](https://github.com/liis-dev-team/rn-dependency-installer/pull/2) in [liis-dev-team/rn-dependency-installer](https://github.com/liis-dev-team/rn-dependency-installer)
+2. 💪 Opened PR [#2](https://github.com/liis-dev-team/rn-dependency-installer/pull/2) in [liis-dev-team/rn-dependency-installer](https://github.com/liis-dev-team/rn-dependency-installer)
 <!--END_SECTION:activity-->
 
 </details>
