@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/mac-cleanup/mac-cleanup-py/pull/18) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🎉 Merged PR [#3](https://github.com/liis-dev-team/rn-dependency-installer/pull/3) in [liis-dev-team/rn-dependency-installer](https://github.com/liis-dev-team/rn-dependency-installer)
+1. ❗️ Opened issue [#803](https://github.com/davidwernhart/AlDente/issues/803) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
+2. 🎉 Merged PR [#18](https://github.com/mac-cleanup/mac-cleanup-py/pull/18) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
