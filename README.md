@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#803](https://github.com/davidwernhart/AlDente/issues/803) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
-2. 🗣 Commented on [#803](https://github.com/davidwernhart/AlDente/issues/803) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
+1. 🗣 Commented on [#1423](https://github.com/ProxymanApp/Proxyman/issues/1423) in [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman)
+2. ❗️ Closed issue [#803](https://github.com/davidwernhart/AlDente/issues/803) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
 <!--END_SECTION:activity-->
 
 </details>
