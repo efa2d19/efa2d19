@@ -54,8 +54,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/mac-cleanup/mac-cleanup-py/pull/19) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🗣 Commented on [#1423](https://github.com/ProxymanApp/Proxyman/issues/1423) in [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman)
+1. 🗣 Commented on [#20](https://github.com/mac-cleanup/mac-cleanup-py/issues/20) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🎉 Merged PR [#19](https://github.com/mac-cleanup/mac-cleanup-py/pull/19) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
