@@ -12,6 +12,9 @@ Connect with me:
 [<img align="left" alt="Telegram" width="26px" src="./img/dark/telegram.svg" style="padding-right:10px;" />](https://t.me/Alex0sipov#gh-light-mode-only)
 [<img align="left" alt="Telegram" width="26px" src="./img/light/telegram.svg" style="padding-right:10px;" />](https://t.me/Alex0sipov#gh-dark-mode-only)
 &nbsp;&nbsp;
+[<img align="left" alt="LinkedIn" width="26px" src="./img/dark/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/alex-osipov-dev/#gh-light-mode-only)
+[<img align="left" alt="LinkedIn" width="26px" src="./img/light/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/alex-osipov-dev/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [<img align="left" alt="Stackoverflow" width="26px" src="./img/dark/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18619132#gh-light-mode-only)
 [<img align="left" alt="Stackoverflow" width="26px" src="./img/light/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18619132#gh-dark-mode-only)
 
