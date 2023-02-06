@@ -58,8 +58,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/mac-cleanup/mac-cleanup-py/pull/26) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🎉 Merged PR [#25](https://github.com/mac-cleanup/mac-cleanup-py/pull/25) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. ❗️ Opened issue [#14](https://github.com/artginzburg/sudo-touchid/issues/14) in [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid)
+2. 🎉 Merged PR [#26](https://github.com/mac-cleanup/mac-cleanup-py/pull/26) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
