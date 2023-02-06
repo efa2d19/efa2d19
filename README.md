@@ -58,8 +58,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/artginzburg/sudo-touchid/issues/14) in [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid)
-2. 🎉 Merged PR [#26](https://github.com/mac-cleanup/mac-cleanup-py/pull/26) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 💪 Opened PR [#505](https://github.com/FiloSottile/mkcert/pull/505) in [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+2. ❗️ Opened issue [#504](https://github.com/FiloSottile/mkcert/issues/504) in [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
 <!--END_SECTION:activity-->
 
 </details>
