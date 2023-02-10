@@ -58,8 +58,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#505](https://github.com/FiloSottile/mkcert/pull/505) in [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
-2. ❗️ Opened issue [#504](https://github.com/FiloSottile/mkcert/issues/504) in [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+1. 🎉 Merged PR [#30](https://github.com/mac-cleanup/mac-cleanup-py/pull/30) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#30](https://github.com/mac-cleanup/mac-cleanup-py/issues/30) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
