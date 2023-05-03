@@ -58,8 +58,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/mac-cleanup/mac-cleanup-py/pull/56) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 💪 Opened PR [#56](https://github.com/mac-cleanup/mac-cleanup-py/pull/56) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🗣 Commented on [#57](https://github.com/mac-cleanup/mac-cleanup-py/issues/57) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#58](https://github.com/mac-cleanup/mac-cleanup-py/issues/58) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
