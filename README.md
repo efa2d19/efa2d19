@@ -2,7 +2,7 @@
 
 ## Automation and manual QA
 
-- 🔭 I’m currently working at LIIS
+- 🔭 I’m currently working at Tinkoff
 - 🌱 I’m currently learning everything 🐸
 - 👯 I’m looking to collaborate with other 🐍Python devs
 
