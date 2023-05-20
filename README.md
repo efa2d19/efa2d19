@@ -58,8 +58,8 @@ Frameworks worked w/:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/mac-cleanup/mac-cleanup-py/issues/70) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🗣 Commented on [#68](https://github.com/mac-cleanup/mac-cleanup-py/issues/68) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🗣 Commented on [#73](https://github.com/mac-cleanup/mac-cleanup-py/issues/73) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#72](https://github.com/mac-cleanup/mac-cleanup-py/issues/72) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
