@@ -45,6 +45,10 @@ Languages and Tools:
 [<img align="left" alt="Bash" width="26px" src="./img/dark/gnubash.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/#gh-light-mode-only)
 [<img align="left" alt="Bash" width="26px" src="./img/light/gnubash.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/#gh-dark-mode-only)
 
+---
+
+
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   &nbsp;
