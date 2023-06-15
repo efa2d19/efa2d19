@@ -1,10 +1,10 @@
 # Hi there, I'm Alex - aka drugsosos 👋
 
-## Automation and manual QA
+## Fullstack Kotlin AQA
 
 - 🔭 I’m currently working at Tinkoff
 - 🌱 I’m currently learning everything 🐸
-- 👯 I’m looking to collaborate with other 🐍Python devs
+- 👯 I’m looking to collaborate with other **Kotlin** / **Java** developers
 
 Connect with me:
 ---
@@ -14,14 +14,22 @@ Connect with me:
 &nbsp;&nbsp;
 [<img align="left" alt="LinkedIn" width="26px" src="./img/dark/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/alex-osipov-dev/#gh-light-mode-only)
 [<img align="left" alt="LinkedIn" width="26px" src="./img/light/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/alex-osipov-dev/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[<img align="left" alt="Stackoverflow" width="26px" src="./img/dark/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18619132#gh-light-mode-only)
-[<img align="left" alt="Stackoverflow" width="26px" src="./img/light/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18619132#gh-dark-mode-only)
-
 
 Languages and Tools:
 ---
 
+[<img align="left" alt="Kotlin" width="26px" src="./img/dark/kotlin.svg" style="padding-right:10px;" />](https://kotlinlang.org/#gh-light-mode-only)
+[<img align="left" alt="Kotlin" width="26px" src="./img/light/kotlin.svg" style="padding-right:10px;" />](https://kotlinlang.org/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img align="left" alt="Espresso" width="26px" src="./img/dark/espresso.svg" style="padding-right:10px;" />](https://developer.android.com/training/testing/espresso/#gh-light-mode-only)
+[<img align="left" alt="Espresso" width="26px" src="./img/light/espresso.svg" style="padding-right:10px;" />](https://developer.android.com/training/testing/espresso/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img align="left" alt="Playwright" width="26px" src="./img/dark/playwright.svg" style="padding-right:10px;" />](https://playwright.dev#gh-light-mode-only)
+[<img align="left" alt="Playwright" width="26px" src="./img/light/playwright.svg" style="padding-right:10px;" />](https://playwright.dev#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img align="left" alt="JUnit" width="26px" src="./img/dark/junit5.svg" style="padding-right:10px;" />](https://junit.org/junit5/#gh-light-mode-only)
+[<img align="left" alt="JUnit" width="26px" src="./img/light/junit5.svg" style="padding-right:10px;" />](https://junit.org/junit5/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [<img align="left" alt="Python" width="26px" src="./img/dark/python.svg" style="padding-right:10px;" />](https://www.python.org#gh-light-mode-only)
 [<img align="left" alt="Python" width="26px" src="./img/light/python.svg" style="padding-right:10px;" />](https://www.python.org#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -34,24 +42,8 @@ Languages and Tools:
 [<img align="left" alt="Selenium" width="26px" src="./img/dark/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-light-mode-only)
 [<img align="left" alt="Selenium" width="26px" src="./img/light/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Playwright" width="26px" src="./img/dark/playwright.svg" style="padding-right:10px;" />](https://playwright.dev#gh-light-mode-only)
-[<img align="left" alt="Playwright" width="26px" src="./img/light/playwright.svg" style="padding-right:10px;" />](https://playwright.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
 [<img align="left" alt="Bash" width="26px" src="./img/dark/gnubash.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/#gh-light-mode-only)
 [<img align="left" alt="Bash" width="26px" src="./img/light/gnubash.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/#gh-dark-mode-only)
-
-
-Frameworks worked w/:
----
-
-[<img align="left" alt="React Native" width="26px" src="./img/dark/react-native.svg" style="padding-right:10px;" />](https://reactjs.org#gh-light-mode-only)
-[<img align="left" alt="React Native" width="26px" src="./img/light/react-native.svg" style="padding-right:10px;" />](https://reactjs.org#gh-dark-mode-only)
-&nbsp;&nbsp;
-[<img align="left" alt="React" width="26px" src="./img/dark/react.svg" style="padding-right:10px;" />](https://reactnative.dev#gh-light-mode-only)
-[<img align="left" alt="React" width="26px" src="./img/light/react.svg" style="padding-right:10px;" />](https://reactnative.dev#gh-dark-mode-only)
-
----
-
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
