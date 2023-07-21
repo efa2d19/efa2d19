@@ -54,8 +54,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/mac-cleanup/mac-cleanup-py/issues/82#issuecomment-1576486428) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🗣 Commented on [#82](https://github.com/mac-cleanup/mac-cleanup-py/issues/82#issuecomment-1576362093) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🚀 Published release [Yet another minor update but with something new this time](https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.0.4) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🔒 Closed issue [#81](https://github.com/mac-cleanup/mac-cleanup-py/issues/81) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
