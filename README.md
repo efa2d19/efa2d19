@@ -54,8 +54,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/mac-cleanup/mac-cleanup-py/issues/80#issuecomment-1661946530) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🗣 Commented on [#108](https://github.com/mac-cleanup/mac-cleanup-py/issues/108#issuecomment-1660003214) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🗣 Commented on [#80](https://github.com/mac-cleanup/mac-cleanup-py/issues/80#issuecomment-1662221978) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#80](https://github.com/mac-cleanup/mac-cleanup-py/issues/80#issuecomment-1661946530) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
