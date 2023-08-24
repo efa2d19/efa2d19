@@ -2,7 +2,6 @@
 
 ## Fullstack Kotlin AQA
 
-- 🔭 I’m currently working at Tinkoff
 - 🌱 I’m currently learning everything 🐸
 - 👯 I’m looking to collaborate with other **Kotlin** / **Java** developers
 
