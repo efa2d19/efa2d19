@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/mac-cleanup/mac-cleanup-py/issues/143#issuecomment-1760977852) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🗣 Commented on [#140](https://github.com/mac-cleanup/mac-cleanup-py/issues/140#issuecomment-1750605572) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🚀 Published release [Little fixes to privilege revoke](https://github.com/Drugsosos/bw-guarded/releases/tag/1.0.1) in [Drugsosos/bw-guarded](https://github.com/Drugsosos/bw-guarded)
+2. 🚀 Published release [v1 Init for Homebrew formulae](https://github.com/Drugsosos/bw-guarded/releases/tag/1.0.0) in [Drugsosos/bw-guarded](https://github.com/Drugsosos/bw-guarded)
 <!--END_SECTION:activity-->
 
 </details>
