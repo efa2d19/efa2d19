@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/mac-cleanup/mac-cleanup-py/issues/108#issuecomment-1772144975) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🚀 Published release [Little fixes to privilege revoke](https://github.com/Drugsosos/bw-guarded/releases/tag/1.0.1) in [Drugsosos/bw-guarded](https://github.com/Drugsosos/bw-guarded)
+1. 🚀 Published release [Initial release](https://github.com/Drugsosos/httpServe/releases/tag/1.0.0) in [Drugsosos/httpServe](https://github.com/Drugsosos/httpServe)
+2. 🚀 Published release [Initial release](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.0) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
 <!--END_SECTION:activity-->
 
 </details>
