@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Initial release](https://github.com/Drugsosos/httpServe/releases/tag/1.0.0) in [Drugsosos/httpServe](https://github.com/Drugsosos/httpServe)
-2. 🚀 Published release [Initial release](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.0) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
+1. 🚀 Published release [Little bugfix for gswi and remote branches](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.1) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
+2. 🚀 Published release [Initial release](https://github.com/Drugsosos/httpServe/releases/tag/1.0.0) in [Drugsosos/httpServe](https://github.com/Drugsosos/httpServe)
 <!--END_SECTION:activity-->
 
 </details>
