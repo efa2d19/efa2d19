@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Forgot to replace --porcelain everywhere](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.4) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
-2. 🚀 Published release [Improved delta preview](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.3) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
+1. 🚀 Published release [Few improvements in formatting & argv as fzf query](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.5) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
+2. 🚀 Published release [Forgot to replace --porcelain everywhere](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.4) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
 <!--END_SECTION:activity-->
 
 </details>
