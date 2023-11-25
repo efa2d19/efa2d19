@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Few improvements in formatting & argv as fzf query](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.5) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
-2. 🚀 Published release [Forgot to replace --porcelain everywhere](https://github.com/Drugsosos/fzf-git-extensions/releases/tag/1.0.4) in [Drugsosos/fzf-git-extensions](https://github.com/Drugsosos/fzf-git-extensions)
+1. 🗣 Commented on [#140](https://github.com/mac-cleanup/mac-cleanup-py/issues/140#issuecomment-1826385391) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🔒 Closed issue [#140](https://github.com/mac-cleanup/mac-cleanup-py/issues/140) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
