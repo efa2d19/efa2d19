@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#289](https://github.com/mangerlahn/Latest/issues/289) in [mangerlahn/Latest](https://github.com/mangerlahn/Latest)
-2. 🗣 Commented on [#140](https://github.com/mac-cleanup/mac-cleanup-py/issues/140#issuecomment-1826385391) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. ❗ Opened issue [#291](https://github.com/mangerlahn/Latest/issues/291) in [mangerlahn/Latest](https://github.com/mangerlahn/Latest)
+2. ❗ Opened issue [#289](https://github.com/mangerlahn/Latest/issues/289) in [mangerlahn/Latest](https://github.com/mangerlahn/Latest)
 <!--END_SECTION:activity-->
 
 </details>
