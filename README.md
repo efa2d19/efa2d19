@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/mac-cleanup/mac-cleanup-py/issues/149#issuecomment-1919544441) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🗣 Commented on [#148](https://github.com/mac-cleanup/mac-cleanup-py/issues/148#issuecomment-1918637939) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🗣 Commented on [#10823](https://github.com/raycast/extensions/issues/10823#issuecomment-1952404127) in [raycast/extensions](https://github.com/raycast/extensions)
+2. ❗ Opened issue [#10823](https://github.com/raycast/extensions/issues/10823) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 </details>
