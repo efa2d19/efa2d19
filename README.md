@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10823](https://github.com/raycast/extensions/issues/10823#issuecomment-1956084105) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#10823](https://github.com/raycast/extensions/issues/10823#issuecomment-1952404127) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#697](https://github.com/shuzijun/leetcode-editor/issues/697#issuecomment-1983773261) in [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor)
+2. 🗣 Commented on [#10823](https://github.com/raycast/extensions/issues/10823#issuecomment-1956084105) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 </details>
