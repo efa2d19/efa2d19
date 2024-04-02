@@ -1,4 +1,4 @@
-# Hi there, I'm Alex - aka drugsosos 👋
+# Hi there, I'm Sasha 👋
 
 ## Fullstack Kotlin AQA
 
@@ -8,11 +8,11 @@
 Connect with me:
 ---
 
-[<img align="left" alt="Telegram" width="26px" src="./img/dark/telegram.svg" style="padding-right:10px;" />](https://t.me/Alex0sipov#gh-light-mode-only)
-[<img align="left" alt="Telegram" width="26px" src="./img/light/telegram.svg" style="padding-right:10px;" />](https://t.me/Alex0sipov#gh-dark-mode-only)
+[<img align="left" alt="Telegram" width="26px" src="./img/dark/telegram.svg" style="padding-right:10px;" />](https://t.me/efa2d19#gh-light-mode-only)
+[<img align="left" alt="Telegram" width="26px" src="./img/light/telegram.svg" style="padding-right:10px;" />](https://t.me/efa2d19#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="LinkedIn" width="26px" src="./img/dark/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/alex-osipov-dev/#gh-light-mode-only)
-[<img align="left" alt="LinkedIn" width="26px" src="./img/light/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/alex-osipov-dev/#gh-dark-mode-only)
+[<img align="left" alt="LinkedIn" width="26px" src="./img/dark/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/efa2d19/#gh-light-mode-only)
+[<img align="left" alt="LinkedIn" width="26px" src="./img/light/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/efa2d19/#gh-dark-mode-only)
 
 Languages and Tools:
 ---
@@ -63,9 +63,9 @@ Languages and Tools:
   <summary>:zap: GitHub Stats</summary>
   &nbsp;
   
-  [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats-drugsosos.vercel.app/api/top-langs/?username=drugsosos&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact" />](https://github.com/Drugsosos#gh-light-mode-only)
-  [<img align="left" width="47%" alt="Github Stats" src="https://github-readme-stats-drugsosos.vercel.app/api?username=drugsosos&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/Drugsosos#gh-light-mode-only)
-  [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats-drugsosos.vercel.app/api/top-langs/?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/Drugsosos#gh-dark-mode-only)
-  [<img align="left" width="47%" alt="Github Stats" src="https://github-readme-stats-drugsosos.vercel.app/api?username=drugsosos&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/Drugsosos#gh-dark-mode-only)
+  [<img align="left" width="47%" alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=efa2d19&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact" />](https://github.com/efa2d19#gh-light-mode-only)
+  [<img align="left" width="47%" alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=efa2d19&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/efa2d19#gh-light-mode-only)
+  [<img align="left" width="47%" alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=efa2d19&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/efa2d19#gh-dark-mode-only)
+  [<img align="left" width="47%" alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=efa2d19&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/efa2d19#gh-dark-mode-only)
 
 </details>
