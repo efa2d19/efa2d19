@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fixed enormous reload time in gsti](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.0.6) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
-2. 🗣 Commented on [#160](https://github.com/mac-cleanup/mac-cleanup-py/pull/160#issuecomment-2043254106) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🚀 Published release [1.0.7](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.0.7) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+2. 🚀 Published release [Fixed enormous reload time in gsti](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.0.6) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
 <!--END_SECTION:activity-->
 
 </details>
