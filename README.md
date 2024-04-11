@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.7](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.0.7) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
-2. 🚀 Published release [Fixed enormous reload time in gsti](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.0.6) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+1. 🗣 Commented on [#10823](https://github.com/raycast/extensions/issues/10823#issuecomment-2050196417) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🔒 Closed issue [#10823](https://github.com/raycast/extensions/issues/10823) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 </details>
