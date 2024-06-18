@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.0](https://github.com/efa2d19/bw-guarded/releases/tag/1.1.0) in [efa2d19/bw-guarded](https://github.com/efa2d19/bw-guarded)
-2. ❗ Opened issue [#9050](https://github.com/bitwarden/clients/issues/9050) in [bitwarden/clients](https://github.com/bitwarden/clients)
+1. 🚀 Published release [1.1.2](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.1.2) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+2. 🚀 Published release [1.1.0](https://github.com/efa2d19/bw-guarded/releases/tag/1.1.0) in [efa2d19/bw-guarded](https://github.com/efa2d19/bw-guarded)
 <!--END_SECTION:activity-->
 
 </details>
