@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#192](https://github.com/mac-cleanup/mac-cleanup-py/issues/192#issuecomment-2277512318) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🚀 Published release [1.1.2](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.1.2) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+1. 🗣 Commented on [#193](https://github.com/mac-cleanup/mac-cleanup-py/pull/193#issuecomment-2336871285) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#190](https://github.com/mac-cleanup/mac-cleanup-py/issues/190#issuecomment-2336870215) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
