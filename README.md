@@ -63,9 +63,9 @@ Languages and Tools:
   <summary>:zap: GitHub Stats</summary>
   &nbsp;
   
-  [<img align="left" width="47%" alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=efa2d19&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact" />](https://github.com/efa2d19#gh-light-mode-only)
-  [<img align="left" width="47%" alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=efa2d19&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/efa2d19#gh-light-mode-only)
-  [<img align="left" width="47%" alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=efa2d19&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/efa2d19#gh-dark-mode-only)
-  [<img align="left" width="47%" alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=efa2d19&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/efa2d19#gh-dark-mode-only)
+  [<img align="left" width="47%" alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=efa2d19&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact&langs_count=6" />](https://github.com/efa2d19#gh-light-mode-only)
+  [<img align="left" width="47%" alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=efa2d19&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true&line_height=40&rank_icon=github&include_all_commits=true" />](https://github.com/efa2d19#gh-light-mode-only)
+  [<img align="left" width="47%" alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=efa2d19&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact&langs_count=6" />](https://github.com/efa2d19#gh-dark-mode-only)
+  [<img align="left" width="47%" alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=efa2d19&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true&line_height=40&rank_icon=github&include_all_commits=true" />](https://github.com/efa2d19#gh-dark-mode-only)
 
 </details>
