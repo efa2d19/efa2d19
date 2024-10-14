@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.1.1 aka minor dependencies update](https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.1.1) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🎉 Merged PR [#200](https://github.com/mac-cleanup/mac-cleanup-py/pull/200) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🗣 Commented on [#206](https://github.com/mac-cleanup/mac-cleanup-py/issues/206#issuecomment-2409093196) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🚀 Published release [v3.1.2](https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.1.2) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
