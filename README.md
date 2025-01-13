@@ -53,8 +53,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#505](https://github.com/FiloSottile/mkcert/pull/505) in [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
-2. 🗣 Commented on [#211](https://github.com/mac-cleanup/mac-cleanup-py/issues/211#issuecomment-2437793760) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🎉 Merged PR [#242](https://github.com/mac-cleanup/mac-cleanup-py/pull/242) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. ❌ Closed PR [#505](https://github.com/FiloSottile/mkcert/pull/505) in [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
 <!--END_SECTION:activity-->
 
 </details>
