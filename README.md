@@ -1,10 +1,3 @@
-# Hi there, I'm Sasha 👋
-
-## Fullstack Kotlin AQA
-
-- 🌱 I’m currently learning everything 🐸
-- 👯 I’m looking to collaborate with other **Kotlin** / **Java** developers
-
 Connect with me:
 ---
 
