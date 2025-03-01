@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#242](https://github.com/mac-cleanup/mac-cleanup-py/pull/242) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. ❌ Closed PR [#505](https://github.com/FiloSottile/mkcert/pull/505) in [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+1. 🚀 Published release [v3.2.0](https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.2.0) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🔒 Closed issue [#231](https://github.com/mac-cleanup/mac-cleanup-py/issues/231) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
