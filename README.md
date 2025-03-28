@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.3.0](https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.3.0) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🎉 Merged PR [#251](https://github.com/mac-cleanup/mac-cleanup-py/pull/251) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. ❗ Opened issue [#169](https://github.com/paulmillr/encrypted-dns/issues/169) in [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns)
+2. 🚀 Published release [v3.3.0](https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.3.0) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
