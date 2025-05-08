@@ -37,7 +37,7 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#169](https://github.com/paulmillr/encrypted-dns/issues/169) in [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns)
+1. 🚀 Published release [1.2.0](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.2.0) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
 2. 🚀 Published release [v3.3.0](https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.3.0) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
