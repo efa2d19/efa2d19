@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.1](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.2.1) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
-2. 🗣 Commented on [#266](https://github.com/mac-cleanup/mac-cleanup-py/issues/266#issuecomment-2876372603) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🚀 Published release [Local](https://github.com/efa2d19/ollama/releases/tag/v7.0.3) in [efa2d19/ollama](https://github.com/efa2d19/ollama)
+2. 🚀 Published release [Local](https://github.com/efa2d19/ollama/releases/tag/v7.0.1) in [efa2d19/ollama](https://github.com/efa2d19/ollama)
 <!--END_SECTION:activity-->
 
 </details>
