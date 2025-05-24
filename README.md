@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Local](https://github.com/efa2d19/ollama/releases/tag/v7.0.3) in [efa2d19/ollama](https://github.com/efa2d19/ollama)
-2. 🚀 Published release [Local](https://github.com/efa2d19/ollama/releases/tag/v7.0.1) in [efa2d19/ollama](https://github.com/efa2d19/ollama)
+1. 🚀 Published release [v7.0.1-local](https://github.com/efa2d19/ollama/releases/tag/v7.0.1-local) in [efa2d19/ollama](https://github.com/efa2d19/ollama)
+2. 🚀 Published release [Local](https://github.com/efa2d19/ollama/releases/tag/v7.0.1-local) in [efa2d19/ollama](https://github.com/efa2d19/ollama)
 <!--END_SECTION:activity-->
 
 </details>
