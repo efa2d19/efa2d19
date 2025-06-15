@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10861](https://github.com/ollama/ollama/issues/10861) in [ollama/ollama](https://github.com/ollama/ollama)
-2. 🚀 Published release [v7.0.1-local](https://github.com/efa2d19/ollama/releases/tag/v7.0.1-local) in [efa2d19/ollama](https://github.com/efa2d19/ollama)
+1. 🚀 Published release [1.3.2](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.3.2) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+2. 🚀 Published release [1.3.1](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.3.1) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
 <!--END_SECTION:activity-->
 
 </details>
