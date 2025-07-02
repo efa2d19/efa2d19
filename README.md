@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/paulmillr/encrypted-dns/issues/169#issuecomment-2989133417) in [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns)
-2. 🚀 Published release [1.3.2](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.3.2) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+1. 🚀 Published release [1.4.0](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.4.0) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+2. 🗣 Commented on [#169](https://github.com/paulmillr/encrypted-dns/issues/169#issuecomment-2989133417) in [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns)
 <!--END_SECTION:activity-->
 
 </details>
