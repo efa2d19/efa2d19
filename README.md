@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.4.0](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.4.0) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
-2. 🗣 Commented on [#169](https://github.com/paulmillr/encrypted-dns/issues/169#issuecomment-2989133417) in [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns)
+1. 🔒 Closed issue [#272](https://github.com/mac-cleanup/mac-cleanup-py/issues/272) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#272](https://github.com/mac-cleanup/mac-cleanup-py/issues/272#issuecomment-3218104478) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
