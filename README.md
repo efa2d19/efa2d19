@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#272](https://github.com/mac-cleanup/mac-cleanup-py/issues/272) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🗣 Commented on [#272](https://github.com/mac-cleanup/mac-cleanup-py/issues/272#issuecomment-3218104478) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🎉 Merged PR [#276](https://github.com/mac-cleanup/mac-cleanup-py/pull/276) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🔒 Closed issue [#272](https://github.com/mac-cleanup/mac-cleanup-py/issues/272) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
