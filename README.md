@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#276](https://github.com/mac-cleanup/mac-cleanup-py/pull/276) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-2. 🔒 Closed issue [#272](https://github.com/mac-cleanup/mac-cleanup-py/issues/272) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🚀 Published release [1.6.0](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.6.0) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+2. 🎉 Merged PR [#276](https://github.com/mac-cleanup/mac-cleanup-py/pull/276) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
