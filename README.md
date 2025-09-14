@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/abilkhan024/vimium-native/issues/1#issuecomment-3259065747) in [abilkhan024/vimium-native](https://github.com/abilkhan024/vimium-native)
-2. ❗ Opened issue [#2](https://github.com/abilkhan024/vimium-native/issues/2) in [abilkhan024/vimium-native](https://github.com/abilkhan024/vimium-native)
+1. 🗣 Commented on [#277](https://github.com/mac-cleanup/mac-cleanup-py/pull/277#issuecomment-3288344547) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🎉 Merged PR [#278](https://github.com/mac-cleanup/mac-cleanup-py/pull/278) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
