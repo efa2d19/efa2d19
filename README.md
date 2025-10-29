@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.7.0](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.7.0) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
-2. 🗣 Commented on [#1](https://github.com/abilkhan024/vimium-native/issues/1#issuecomment-3422885679) in [abilkhan024/vimium-native](https://github.com/abilkhan024/vimium-native)
+1. 🗣 Commented on [#280](https://github.com/mac-cleanup/mac-cleanup-py/issues/280#issuecomment-3455298213) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🗣 Commented on [#280](https://github.com/mac-cleanup/mac-cleanup-py/issues/280#issuecomment-3455291519) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
