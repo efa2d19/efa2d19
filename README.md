@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [abilkhan024/vimium-native](https://github.com/abilkhan024/vimium-native)
-2. ❌ Merged PR [#6](undefined) in [abilkhan024/vimium-native](https://github.com/abilkhan024/vimium-native)
+1. 🗣 Commented on [#5](https://github.com/abilkhan024/vimium-native/pull/5#issuecomment-3657644046) in [abilkhan024/vimium-native](https://github.com/abilkhan024/vimium-native)
+2. 🗣 Commented on [#5](https://github.com/abilkhan024/vimium-native/pull/5#issuecomment-3657349736) in [abilkhan024/vimium-native](https://github.com/abilkhan024/vimium-native)
 <!--END_SECTION:activity-->
 
 </details>
