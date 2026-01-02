@@ -37,7 +37,7 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [m0zgen/dns-hole](https://github.com/m0zgen/dns-hole)
+1. 💪 Opened PR [#6](https://github.com/m0zgen/dns-hole/pull/6) in [m0zgen/dns-hole](https://github.com/m0zgen/dns-hole)
 2. 🗣 Commented on [#5](https://github.com/abilkhan024/vimium-native/pull/5#issuecomment-3657644046) in [abilkhan024/vimium-native](https://github.com/abilkhan024/vimium-native)
 <!--END_SECTION:activity-->
 
