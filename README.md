@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22813](https://github.com/openwrt/openwrt/issues/22813#issuecomment-4192682410) in [openwrt/openwrt](https://github.com/openwrt/openwrt)
-2. ℹ️ Labeled issue [#22813](https://github.com/openwrt/openwrt/issues/22813) in [openwrt/openwrt](https://github.com/openwrt/openwrt)
+1. 🗣 Commented on [#2781](https://github.com/asmvik/yabai/issues/2781#issuecomment-4276710179) in [asmvik/yabai](https://github.com/asmvik/yabai)
+2. 🗣 Commented on [#2781](https://github.com/asmvik/yabai/issues/2781#issuecomment-4276532025) in [asmvik/yabai](https://github.com/asmvik/yabai)
 <!--END_SECTION:activity-->
 
 </details>
