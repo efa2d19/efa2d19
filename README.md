@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2822](https://github.com/asmvik/yabai/issues/2822#issuecomment-5672889865) in [asmvik/yabai](https://github.com/asmvik/yabai)
-2. 🗣 Commented on [#2780](https://github.com/asmvik/yabai/issues/2780#issuecomment-5625570816) in [asmvik/yabai](https://github.com/asmvik/yabai)
+1. 🚀 Published release [1.8.0](https://github.com/efa2d19/fzf-git-extensions/releases/tag/1.8.0) in [efa2d19/fzf-git-extensions](https://github.com/efa2d19/fzf-git-extensions)
+2. 🗣 Commented on [#2822](https://github.com/asmvik/yabai/issues/2822#issuecomment-5672889865) in [asmvik/yabai](https://github.com/asmvik/yabai)
 <!--END_SECTION:activity-->
 
 </details>
