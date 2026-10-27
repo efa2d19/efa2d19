@@ -37,8 +37,8 @@ Languages and Tools:
   &nbsp;
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/efa2d19/httpServe/releases/tag/1.2.0) in [efa2d19/httpServe](https://github.com/efa2d19/httpServe)
-2. 🗣 Commented on [#292](https://github.com/mac-cleanup/mac-cleanup-py/pull/292#issuecomment-6254948918) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+1. 🚀 Published release [3.4.0](https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/3.4.0) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. ❌ Closed PR [#291](https://github.com/mac-cleanup/mac-cleanup-py/pull/291) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 <!--END_SECTION:activity-->
 
 </details>
