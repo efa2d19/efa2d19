@@ -7,27 +7,6 @@ Connect with me:
 [<img align="left" alt="LinkedIn" width="26px" src="./img/dark/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/efa2d19/#gh-light-mode-only)
 [<img align="left" alt="LinkedIn" width="26px" src="./img/light/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/efa2d19/#gh-dark-mode-only)
 
-Languages and Tools:
----
-
-[<img align="left" alt="Kotlin" width="26px" src="./img/dark/kotlin.svg" style="padding-right:10px;" />](https://kotlinlang.org/#gh-light-mode-only)
-[<img align="left" alt="Kotlin" width="26px" src="./img/light/kotlin.svg" style="padding-right:10px;" />](https://kotlinlang.org/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[<img align="left" alt="Espresso" width="26px" src="./img/dark/espresso.svg" style="padding-right:10px;" />](https://developer.android.com/training/testing/espresso/#gh-light-mode-only)
-[<img align="left" alt="Espresso" width="26px" src="./img/light/espresso.svg" style="padding-right:10px;" />](https://developer.android.com/training/testing/espresso/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[<img align="left" alt="Playwright" width="26px" src="./img/dark/playwright.svg" style="padding-right:10px;" />](https://playwright.dev#gh-light-mode-only)
-[<img align="left" alt="Playwright" width="26px" src="./img/light/playwright.svg" style="padding-right:10px;" />](https://playwright.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[<img align="left" alt="Python" width="26px" src="./img/dark/python.svg" style="padding-right:10px;" />](https://www.python.org#gh-light-mode-only)
-[<img align="left" alt="Python" width="26px" src="./img/light/python.svg" style="padding-right:10px;" />](https://www.python.org#gh-dark-mode-only)
-&nbsp;&nbsp;
-[<img align="left" alt="Appium" width="26px" src="./img/dark/appium.svg" style="padding-right:10px;" />](https://appium.io#gh-light-mode-only)
-[<img align="left" alt="Appium" width="26px" src="./img/light/appium.svg" style="padding-right:10px;" />](https://appium.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[<img align="left" alt="Selenium" width="26px" src="./img/dark/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-light-mode-only)
-[<img align="left" alt="Selenium" width="26px" src="./img/light/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-dark-mode-only)
-
 ---
 
 
